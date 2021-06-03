@@ -5,9 +5,6 @@ My Name's Jay. There isn't much to know about me but I'm from the UK and I love 
 
 There is still a long way to go, but I have patence! 
 
-## 💎 Primary Projects
-Currently as of now, I am heavily working on a discord bot called `Cannabot`. It's a strain search engine and education provider about Cannabis. With over 1970+ strains to explore, I hope to provide the small but heavily inspirational community with a bit of my own creativity and knowledge about what I know best. 
-
 ## 📞 Contact Information
 Want to contact me? Please do it via discord! Jay.#0069
 
