@@ -3,7 +3,7 @@
 ## ✨  About Me
 My Name's Jay. There isn't much to know about me but I'm from the UK and I love to code stuff, primarily in `python`, `java`, `C#` and `PHP`. It's been almost 4 years since I started this journey in computer science, and I created this profile to show off some of my ability. I'm always striving to better my code, improve my workrate and most of all achieve my dream of becoming a software engineer. 
 
-There is still a long way to go, but I have patence! 
+There is still a long way to go, but I have patience! 
 
 ## 📞 Contact Information
 Want to contact me? Please do it via discord! Jay. ツ#1337
