@@ -5,7 +5,4 @@ My Name's Jay. There isn't much to know about me but I'm from the UK and I love 
 
 There is still a long way to go, but I have patience! 
 
-## 📞 Contact Information
-Want to contact me? Please do it via discord! Jay. ツ#1337
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syntheticjay)](https://github.com/anuraghazra/github-readme-stats)
