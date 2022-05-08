@@ -2,7 +2,7 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=BACKEND+DEVELOPER" /></a>
 </p>
 
-<p>
+<p align="center">
    Hey, I'm Jay. I'm a backend/sort of frontend developer based in the UK. <br/>
    With 5 years of experience in software development, I'm fluent in:
   
