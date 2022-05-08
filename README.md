@@ -2,6 +2,16 @@
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=BACKEND+DEVELOPER" /></a>
 </p>
 
+<p>
+   Hey, I'm Jay. I'm a backend/sort of frontend developer based in the UK. <br/>
+   With 5 years of experience in software development, I'm fluent in:
+  
+  <kbd>Java</kbd><br/>
+  <kbd>PHP</kbd><br/>
+  <kbd>JavaScript/NodeJS/Typescript</kbd><br/>
+  <kbd>Python</kbd><br/>
+</p>  
+
 <p align="left">
   <a href="https://github.com/SyntheticJay?tab=repositories"><img alt="All my Repos" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
 </p>
