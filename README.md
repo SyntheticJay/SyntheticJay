@@ -9,7 +9,7 @@
    Check out some of my repositories!
 </p>  
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/SyntheticJay?tab=repositories"><img alt="All my Repos" src="https://shields.io/badge/-All%20my%20Repos-3d3d3d?style=for-the-badge" /></a>
 </p>
 
