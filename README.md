@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=BACKEND+DEVELOPER" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=BACKEND+DEVELOPER;HARDSTUCK+DIAMOND" /></a>
 </p>
 
 <p align="center">
