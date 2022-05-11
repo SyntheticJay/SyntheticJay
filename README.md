@@ -5,8 +5,6 @@
 <p align="center">
    Hey, I'm Jay. I'm a backend/sort of frontend developer based in the UK. <br/>
    With 5 years of experience in software development, I'm fluent in java, c#, nodejs/typescript, php, python
-  
-   Check out some of my repositories!
 </p>  
 
 <p align="center">
