@@ -23,9 +23,3 @@
 <a href="#"><img alt="My most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyntheticJay&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=3d3d3d&title_color=59A9FF&icon_color=59A9FF" height="192px" /></a>
 <br />  
 </p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-## 📊 Recent GitHub Activity
-
-<a href="#"><img alt="My recent GitHub activity" src="https://activity-graph.herokuapp.com/graph?username=SyntheticJay&bg_color=3d3d3d&color=59A9FF&line=59A9FF&point=ffffff&hide_border=true&area_color=59A9FF&area=true" /></a>
-<br />
