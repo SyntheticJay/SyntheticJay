@@ -4,6 +4,8 @@
 
 <p align="center">
    Hey, I'm Jay. I'm a backend/sort of frontend developer based in the UK. <br/>
+   I started programming when I was 12, developing minecraft mods, eventually cheats.
+   Nowadays, I'm a full-stack web developer, with varied experience in Node, Typescript, PHP, Laravel, Vue.js
 </p>  
 
 <p align="center">
