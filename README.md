@@ -1,11 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=BACKEND+DEVELOPER;HARDSTUCK+ASCENDANT" /></a>
-</p>
-
-<p align="center">
-   Hey, I'm Jay. I'm a backend/sort of frontend developer based in the UK. <br/>
-   I started programming when I was 12, developing minecraft mods, eventually cheats.
-   Nowadays, I'm a full-stack web developer, with varied experience in Node, Typescript, PHP, Laravel, Vue.js
+   Hey, I'm Jay. I'm a full-stack developer based in the UK. <br/>
 </p>  
 
 <p align="center">
